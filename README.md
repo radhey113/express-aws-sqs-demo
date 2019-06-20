@@ -1,4 +1,4 @@
-# SQS SERVICE
+# NODE WITH AWS SQS SERVICE
 
 ## Description
 ###### This is a back-end script or worker to run only the SQS AWS service on the server. SQS is used to send and receive message in queue. We are use FIFO queue to send and receive message.
